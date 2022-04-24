@@ -198,7 +198,7 @@ height: 200px;
     color: red;
     text-align: center;
     font-size: 20px;
-    background-image: linear-gradient(yellow,pink);
+    background-image: linear-gradient(green,pink);
     transition: all 2s; 
 }
 
